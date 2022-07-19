@@ -31,6 +31,7 @@ var annotated_dup =
         [ "GenerateHwMipmaps", "class_ogre_1_1_texture_filter_1_1_generate_hw_mipmaps.html", "class_ogre_1_1_texture_filter_1_1_generate_hw_mipmaps" ],
         [ "GenerateSwMipmaps", "class_ogre_1_1_texture_filter_1_1_generate_sw_mipmaps.html", "class_ogre_1_1_texture_filter_1_1_generate_sw_mipmaps" ],
         [ "LeaveChannelR", "class_ogre_1_1_texture_filter_1_1_leave_channel_r.html", "class_ogre_1_1_texture_filter_1_1_leave_channel_r" ],
+        [ "PremultiplyAlpha", "class_ogre_1_1_texture_filter_1_1_premultiply_alpha.html", "class_ogre_1_1_texture_filter_1_1_premultiply_alpha" ],
         [ "PrepareForNormalMapping", "class_ogre_1_1_texture_filter_1_1_prepare_for_normal_mapping.html", "class_ogre_1_1_texture_filter_1_1_prepare_for_normal_mapping" ]
       ] ],
       [ "v1", "namespace_ogre_1_1v1.html", [
@@ -1006,6 +1007,8 @@ var annotated_dup =
       [ "ScaleAffector", "class_ogre_1_1_scale_affector.html", "class_ogre_1_1_scale_affector" ],
       [ "ScaleAffectorFactory", "class_ogre_1_1_scale_affector_factory.html", "class_ogre_1_1_scale_affector_factory" ],
       [ "ScaleControllerFunction", "class_ogre_1_1_scale_controller_function.html", "class_ogre_1_1_scale_controller_function" ],
+      [ "ScaleInterpolatorAffector", "class_ogre_1_1_scale_interpolator_affector.html", "class_ogre_1_1_scale_interpolator_affector" ],
+      [ "ScaleInterpolatorAffectorFactory", "class_ogre_1_1_scale_interpolator_affector_factory.html", "class_ogre_1_1_scale_interpolator_affector_factory" ],
       [ "SceneFormatBase", "class_ogre_1_1_scene_format_base.html", "class_ogre_1_1_scene_format_base" ],
       [ "SceneFormatExporter", "class_ogre_1_1_scene_format_exporter.html", "class_ogre_1_1_scene_format_exporter" ],
       [ "SceneFormatImporter", "class_ogre_1_1_scene_format_importer.html", "class_ogre_1_1_scene_format_importer" ],
@@ -1175,6 +1178,8 @@ var annotated_dup =
       [ "VulkanDiscardBuffer", "class_ogre_1_1_vulkan_discard_buffer.html", "class_ogre_1_1_vulkan_discard_buffer" ],
       [ "VulkanDiscardBufferManager", "class_ogre_1_1_vulkan_discard_buffer_manager.html", "class_ogre_1_1_vulkan_discard_buffer_manager" ],
       [ "VulkanDynamicBuffer", "class_ogre_1_1_vulkan_dynamic_buffer.html", "class_ogre_1_1_vulkan_dynamic_buffer" ],
+      [ "VulkanExternalDevice", "struct_ogre_1_1_vulkan_external_device.html", "struct_ogre_1_1_vulkan_external_device" ],
+      [ "VulkanExternalInstance", "struct_ogre_1_1_vulkan_external_instance.html", "struct_ogre_1_1_vulkan_external_instance" ],
       [ "VulkanFlushOnlyDescValue", "struct_ogre_1_1_vulkan_flush_only_desc_value.html", "struct_ogre_1_1_vulkan_flush_only_desc_value" ],
       [ "VulkanFrameBufferDescKey", "struct_ogre_1_1_vulkan_frame_buffer_desc_key.html", "struct_ogre_1_1_vulkan_frame_buffer_desc_key" ],
       [ "VulkanFrameBufferDescValue", "struct_ogre_1_1_vulkan_frame_buffer_desc_value.html", "struct_ogre_1_1_vulkan_frame_buffer_desc_value" ],

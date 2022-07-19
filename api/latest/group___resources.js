@@ -364,6 +364,7 @@ var group___resources =
         [ "Deleted", "class_ogre_1_1_default_texture_gpu_manager_listener.html#afe11bd546cf7315f4526488e7078cc7dabb2a61a0002ccca6afbde7588787e58e", null ]
       ] ],
       [ "DefaultTextureGpuManagerListener", "class_ogre_1_1_default_texture_gpu_manager_listener.html#ae16e3450868d702f4a9d65035bf926f3", null ],
+      [ "getFiltersFor", "class_ogre_1_1_default_texture_gpu_manager_listener.html#a8f67c6d9b067a23b128319a754ead88a", null ],
       [ "getNumSlicesFor", "class_ogre_1_1_default_texture_gpu_manager_listener.html#a6947566c623e6b83eebf4635360c81fe", null ],
       [ "notifyTextureChanged", "class_ogre_1_1_default_texture_gpu_manager_listener.html#a31427c39cf92266f2b9ff4e3fc75ba87", null ],
       [ "shouldStayLoaded", "class_ogre_1_1_default_texture_gpu_manager_listener.html#a1427f0b635a4186cd6083a9bab879fa2", null ],
@@ -4318,7 +4319,8 @@ var group___resources =
         [ "ReadyForRendering", "class_ogre_1_1_texture_gpu_manager_listener.html#afe11bd546cf7315f4526488e7078cc7dad4d9c6e3b7755f38d8d5f003be100257", null ],
         [ "Deleted", "class_ogre_1_1_texture_gpu_manager_listener.html#afe11bd546cf7315f4526488e7078cc7dabb2a61a0002ccca6afbde7588787e58e", null ]
       ] ],
-      [ "~TextureGpuManagerListener", "class_ogre_1_1_texture_gpu_manager_listener.html#ae2415a848afe044f130e574ba0ddfc19", null ],
+      [ "~TextureGpuManagerListener", "class_ogre_1_1_texture_gpu_manager_listener.html#a886461b2a09b9b3e4277178debcaf70c", null ],
+      [ "getFiltersFor", "class_ogre_1_1_texture_gpu_manager_listener.html#a0a8912aab229795e68cdac07dbe7629c", null ],
       [ "getNumSlicesFor", "class_ogre_1_1_texture_gpu_manager_listener.html#ae9baf391b356408635e3ff8c7522b409", null ],
       [ "notifyTextureChanged", "class_ogre_1_1_texture_gpu_manager_listener.html#aad4e9062c9a92d1e2cc57d4bbe50eb95", null ],
       [ "shouldStayLoaded", "class_ogre_1_1_texture_gpu_manager_listener.html#a1427f0b635a4186cd6083a9bab879fa2", null ]
@@ -5169,7 +5171,7 @@ var group___resources =
       [ "destroyView", "class_ogre_1_1_vulkan_texture_gpu.html#a06c8efd9d4f9ddbdae952872f81534b8", null ],
       [ "destroyView", "class_ogre_1_1_vulkan_texture_gpu.html#ae4e93138a97ffb507ace65e342a356aa", null ],
       [ "getCurrentLayout", "class_ogre_1_1_vulkan_texture_gpu.html#a7c53c1676cb0e183dddc2eb960a31972", null ],
-      [ "getCustomAttribute", "class_ogre_1_1_vulkan_texture_gpu.html#aaecbe86d69c49a223a92070acbd309fc", null ],
+      [ "getCustomAttribute", "class_ogre_1_1_vulkan_texture_gpu.html#add4e14537b7528da5ec84335b5894d58", null ],
       [ "getDefaultDisplaySrv", "class_ogre_1_1_vulkan_texture_gpu.html#aa7350567619432442f353e3fdee17b25", null ],
       [ "getDefaultLayout", "class_ogre_1_1_vulkan_texture_gpu.html#a472f6a92131325af1a8f5ba2b78b86eb", null ],
       [ "getDepth", "class_ogre_1_1_vulkan_texture_gpu.html#a20508c2ba704e46e84453bc62aea85a0", null ],
@@ -5311,6 +5313,7 @@ var group___resources =
       [ "createOrRetrieveTexture", "class_ogre_1_1_vulkan_texture_gpu_manager.html#abf67202da75b8c6f9134d7e81baa89d8", null ],
       [ "createTexture", "class_ogre_1_1_vulkan_texture_gpu_manager.html#a017eec4324d75ffb0de6b0fc1fdd2654", null ],
       [ "createTexture", "class_ogre_1_1_vulkan_texture_gpu_manager.html#a8d1cdf54c1a262bc911d37235682ec1c", null ],
+      [ "createTextureGpuNullWindow", "class_ogre_1_1_vulkan_texture_gpu_manager.html#ad8912665b8e584540c2a97f3f226c9db", null ],
       [ "createTextureGpuWindow", "class_ogre_1_1_vulkan_texture_gpu_manager.html#a794575b1265d26e59bd5e2cbe92febd9", null ],
       [ "createView", "class_ogre_1_1_vulkan_texture_gpu_manager.html#a2004ed04a92b7bbe8001521a7d060a43", null ],
       [ "createView", "class_ogre_1_1_vulkan_texture_gpu_manager.html#ac3b9a6f92929930e55371e15d4b00eaf", null ],
@@ -5405,7 +5408,7 @@ var group___resources =
       [ "destroyView", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#a06c8efd9d4f9ddbdae952872f81534b8", null ],
       [ "destroyView", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#ae4e93138a97ffb507ace65e342a356aa", null ],
       [ "getCurrentLayout", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#a7c53c1676cb0e183dddc2eb960a31972", null ],
-      [ "getCustomAttribute", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#aaecbe86d69c49a223a92070acbd309fc", null ],
+      [ "getCustomAttribute", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#add4e14537b7528da5ec84335b5894d58", null ],
       [ "getDefaultDisplaySrv", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#aa7350567619432442f353e3fdee17b25", null ],
       [ "getDefaultLayout", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#a472f6a92131325af1a8f5ba2b78b86eb", null ],
       [ "getDepth", "class_ogre_1_1_vulkan_texture_gpu_render_target.html#a20508c2ba704e46e84453bc62aea85a0", null ],

@@ -1,12 +1,5 @@
 var NAVTREEINDEX92 =
 {
-"class_ogre_1_1_gpu_shared_parameters.html#a1765f9158008bcb4ca0f7ca4c97fa50e":[5,2,5,11,12],
-"class_ogre_1_1_gpu_shared_parameters.html#a1b178e4c6bb62c148d7b57d76c7890f3":[5,2,5,11,2],
-"class_ogre_1_1_gpu_shared_parameters.html#a1c727e879a260c37b00ce5505fe8e144":[5,2,5,11,27],
-"class_ogre_1_1_gpu_shared_parameters.html#a1d338e448331ece06b476fa1dec4be2a":[5,2,5,11,38],
-"class_ogre_1_1_gpu_shared_parameters.html#a2572f892bc724d64c5cc2094a0540aa5":[5,2,5,11,7],
-"class_ogre_1_1_gpu_shared_parameters.html#a28e5fe73bb72fdd7a866babea643f9e3":[5,2,5,11,22],
-"class_ogre_1_1_gpu_shared_parameters.html#a32289cc85ebb2a988ce36727a508dac6":[5,2,5,11,44],
 "class_ogre_1_1_gpu_shared_parameters.html#a43b8508eccf7808bd563fb64f93ece15":[5,2,5,11,5],
 "class_ogre_1_1_gpu_shared_parameters.html#a4e4294e6ceb000f1ba60dfdd03ca03e4":[5,2,5,11,18],
 "class_ogre_1_1_gpu_shared_parameters.html#a595ea4c05da8aa987d3800e65d23355d":[5,2,5,11,29],
@@ -249,5 +242,12 @@ var NAVTREEINDEX92 =
 "class_ogre_1_1_high_level_gpu_program.html#a77d5f72e02500f6db6f460bb48eac721":[5,2,10,57,8],
 "class_ogre_1_1_high_level_gpu_program.html#a7f06b57b4b69de327a717ef32d657d41":[5,2,10,57,22],
 "class_ogre_1_1_high_level_gpu_program.html#a81a265e3ca4021d5e083a30d1ef5fd16":[5,2,10,57,60],
-"class_ogre_1_1_high_level_gpu_program.html#a82174dc4f4a0645332483ced7904c2f6":[5,2,10,57,85]
+"class_ogre_1_1_high_level_gpu_program.html#a82174dc4f4a0645332483ced7904c2f6":[5,2,10,57,85],
+"class_ogre_1_1_high_level_gpu_program.html#a8357fe4fb4849772b94baa4bf47c7ded":[5,2,10,57,65],
+"class_ogre_1_1_high_level_gpu_program.html#a843c706f65d219c1d04b8aeacc4bd3c8":[5,2,10,57,88],
+"class_ogre_1_1_high_level_gpu_program.html#a848bf4164963cf8c0435c972eb717e0f":[5,2,10,57,92],
+"class_ogre_1_1_high_level_gpu_program.html#a84c3904bfaeeb1166dbca41e0c9f3b29":[5,2,10,57,83],
+"class_ogre_1_1_high_level_gpu_program.html#a84ce56668096035142eef52aef1e0635":[5,2,10,57,40],
+"class_ogre_1_1_high_level_gpu_program.html#a8660b706f82f66ed7939da460e204e55":[5,2,10,57,108],
+"class_ogre_1_1_high_level_gpu_program.html#a893c7a150edb48a25e5df700cfc194eb":[5,2,10,57,7]
 };
