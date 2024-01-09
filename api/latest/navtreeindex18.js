@@ -1,5 +1,6 @@
 var NAVTREEINDEX18 =
 {
+"class_ogre_1_1_bone_memory_manager.html#a22d578b95ec5ba0122dc470f0a271403":[5,2,7,4,3],
 "class_ogre_1_1_bone_memory_manager.html#a2fe61696b7ed82aded3499505ce3ccb7":[5,2,7,4,1],
 "class_ogre_1_1_bone_memory_manager.html#a44cea17a70b0011199c428b11cea0d71":[5,2,7,4,8],
 "class_ogre_1_1_bone_memory_manager.html#a4c64e11634352f03b8f6ef06c94ff800":[5,2,7,4,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX18 =
 "class_ogre_1_1_camera.html#aa2b24b6b89bda918c61acb336d4ec56c":[5,0,1,2,36],
 "class_ogre_1_1_camera.html#aa2b24b6b89bda918c61acb336d4ec56c":[5,2,11,2,36],
 "class_ogre_1_1_camera.html#aa52bee58d2e9762627de103d2ebf5a45":[5,0,1,2,68],
-"class_ogre_1_1_camera.html#aa52bee58d2e9762627de103d2ebf5a45":[5,2,11,2,68],
-"class_ogre_1_1_camera.html#aa559aa1dd59c3a5dcc275125ee8f452f":[5,0,1,2,41]
+"class_ogre_1_1_camera.html#aa52bee58d2e9762627de103d2ebf5a45":[5,2,11,2,68]
 };
