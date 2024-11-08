@@ -113,6 +113,7 @@ var class_ogre_1_1_vulkan_render_system =
     [ "getVerticalTexelOffset", "class_ogre_1_1_vulkan_render_system.html#a5d861dd78eb95245287e154893ab52d6", null ],
     [ "getVkInstance", "class_ogre_1_1_vulkan_render_system.html#a6b731c196f043148ec8f41d564d24352", null ],
     [ "getVulkanDevice", "class_ogre_1_1_vulkan_render_system.html#ac037b5fe30dd9ef06735c784b1c88863", null ],
+    [ "getVulkanPhysicalDevices", "class_ogre_1_1_vulkan_render_system.html#a097c78fa7513c4553ef23c2c08697268", null ],
     [ "hasAnisotropicMipMapFilter", "class_ogre_1_1_vulkan_render_system.html#a0ee0fc5d4e7e816d8f979d10369752b3", null ],
     [ "initConfigOptions", "class_ogre_1_1_vulkan_render_system.html#a2ed03ae8d85301b4f0ff8f9600a5d773", null ],
     [ "initGPUProfiling", "class_ogre_1_1_vulkan_render_system.html#ae0d6f4281914c4125791c90493756907", null ],

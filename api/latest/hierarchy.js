@@ -1986,6 +1986,7 @@ var hierarchy =
     [ "Ogre::VulkanGlobalBindingTable", "struct_ogre_1_1_vulkan_global_binding_table.html", null ],
     [ "Ogre::VulkanHlmsPso", "struct_ogre_1_1_vulkan_hlms_pso.html", null ],
     [ "Ogre::VulkanMappings", "class_ogre_1_1_vulkan_mappings.html", null ],
+    [ "Ogre::VulkanPhysicalDevice", "struct_ogre_1_1_vulkan_physical_device.html", null ],
     [ "Ogre::VulkanQueue", "class_ogre_1_1_vulkan_queue.html", null ],
     [ "Ogre::VulkanQueue::PerFrameData", "struct_ogre_1_1_vulkan_queue_1_1_per_frame_data.html", null ],
     [ "Ogre::VulkanRawBuffer", "struct_ogre_1_1_vulkan_raw_buffer.html", null ],
