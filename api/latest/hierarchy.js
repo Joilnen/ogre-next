@@ -1708,6 +1708,7 @@ var hierarchy =
       [ "Ogre::v1::OverlaySystem", "class_ogre_1_1v1_1_1_overlay_system.html", null ]
     ] ],
     [ "Ogre::RenderSystem::Listener", "class_ogre_1_1_render_system_1_1_listener.html", [
+      [ "Ogre::AtmosphereNpr", "class_ogre_1_1_atmosphere_npr.html", null ],
       [ "Ogre::D3D11RenderPassDescriptor", "class_ogre_1_1_d3_d11_render_pass_descriptor.html", null ],
       [ "Ogre::ParallaxCorrectedCubemapBase", "class_ogre_1_1_parallax_corrected_cubemap_base.html", null ],
       [ "Ogre::v1::OverlaySystem", "class_ogre_1_1v1_1_1_overlay_system.html", null ]
@@ -1978,6 +1979,10 @@ var hierarchy =
     [ "Ogre::VulkanDevice", "struct_ogre_1_1_vulkan_device.html", null ],
     [ "Ogre::VulkanDevice::ExtraVkFeatures", "struct_ogre_1_1_vulkan_device_1_1_extra_vk_features.html", null ],
     [ "Ogre::VulkanDevice::SelectedQueue", "struct_ogre_1_1_vulkan_device_1_1_selected_queue.html", null ],
+    [ "Ogre::VulkanDeviceResource", "class_ogre_1_1_vulkan_device_resource.html", null ],
+    [ "Ogre::VulkanDeviceResourceManager", "class_ogre_1_1_vulkan_device_resource_manager.html", [
+      [ "Ogre::VulkanRenderSystem", "class_ogre_1_1_vulkan_render_system.html", null ]
+    ] ],
     [ "Ogre::VulkanDynamicBuffer", "class_ogre_1_1_vulkan_dynamic_buffer.html", null ],
     [ "Ogre::VulkanExternalDevice", "struct_ogre_1_1_vulkan_external_device.html", null ],
     [ "Ogre::VulkanExternalInstance", "struct_ogre_1_1_vulkan_external_instance.html", null ],
