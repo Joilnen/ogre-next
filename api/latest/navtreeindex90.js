@@ -1,5 +1,6 @@
 var NAVTREEINDEX90 =
 {
+"compositor.html#CompositorNodesPassesUavQueue_uav_buffer":[4,2,4,0,2,8,3],
 "compositor.html#CompositorNodesPassesUavQueue_uav_external":[4,2,4,0,2,8,2],
 "compositor.html#CompositorNodesTarget":[4,2,4,0,1],
 "compositor.html#CompositorNodesTextures":[4,2,4,0,3],
@@ -244,10 +245,9 @@ var NAVTREEINDEX90 =
 "globals_a.html":[9,1,0,1],
 "globals_c.html":[9,1,0,2],
 "globals_d.html":[9,1,0,3],
-"globals_defs.html":[9,1,5,0],
 "globals_defs.html":[9,1,5],
+"globals_defs.html":[9,1,5,0],
 "globals_defs_a.html":[9,1,5,1],
 "globals_defs_c.html":[9,1,5,2],
-"globals_defs_d.html":[9,1,5,3],
-"globals_defs_e.html":[9,1,5,4]
+"globals_defs_d.html":[9,1,5,3]
 };
