@@ -1,5 +1,7 @@
 var NAVTREEINDEX119 =
 {
+"namespace_ogre.html#a769d41c00dac951b9c2162c6c1a73573a464139a1080b831143c015fb3b7b8aca":[7,0,0,1305,23],
+"namespace_ogre.html#a769d41c00dac951b9c2162c6c1a73573a48cb7d33ea97e43f06a5c0f5e1f481c8":[7,0,0,1305,30],
 "namespace_ogre.html#a769d41c00dac951b9c2162c6c1a73573a4e1ae5f830888fa98d05b853031d7220":[7,0,0,1305,28],
 "namespace_ogre.html#a769d41c00dac951b9c2162c6c1a73573a54cdcd400702cdc25b995007b2b93353":[7,0,0,1305,20],
 "namespace_ogre.html#a769d41c00dac951b9c2162c6c1a73573a5ae9b878278ad35c0407cb79217c637d":[7,0,0,1305,26],
@@ -247,7 +249,5 @@ var NAVTREEINDEX119 =
 "namespace_ogre_1_1_particle_rotation_type.html":[7,0,0,14],
 "namespace_ogre_1_1_particle_rotation_type.html#a8dc71a0e7995e681a2b4096adbb12b5d":[7,0,0,14,0],
 "namespace_ogre_1_1_particle_rotation_type.html#a8dc71a0e7995e681a2b4096adbb12b5da45158f5cd1b27698814d9a44b685e7f3":[7,0,0,14,0,2],
-"namespace_ogre_1_1_particle_rotation_type.html#a8dc71a0e7995e681a2b4096adbb12b5da5ea2698af77aa6eb4f7c9c0d5592d375":[7,0,0,14,0,1],
-"namespace_ogre_1_1_particle_rotation_type.html#a8dc71a0e7995e681a2b4096adbb12b5daedb1d971c0f9f5d43373fa82b2685236":[7,0,0,14,0,0],
-"namespace_ogre_1_1_particle_type.html#aec723ad77b60eaee6cf3122e2e3cc44e":[7,0,0,15,0]
+"namespace_ogre_1_1_particle_rotation_type.html#a8dc71a0e7995e681a2b4096adbb12b5da5ea2698af77aa6eb4f7c9c0d5592d375":[7,0,0,14,0,1]
 };
