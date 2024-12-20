@@ -315,7 +315,7 @@ var searchData=
   ['uvlength_312',['uvLength',['../class_ogre_1_1_shadow_texture_definition.html#a6b5048cef58070a4608897ab718eb9c4',1,'Ogre::ShadowTextureDefinition']]],
   ['uvnormal_313',['UvNormal',['../struct_ogre_1_1_pbs_property.html#a8535ff2f0757f3bb9f9bec6a974432e8',1,'Ogre::PbsProperty']]],
   ['uvoffset_314',['uvOffset',['../class_ogre_1_1_shadow_texture_definition.html#a9415b07e2e36a433b61767818fa214d8',1,'Ogre::ShadowTextureDefinition']]],
-  ['uvrect_315',['uvrect',['../struct_ogre_1_1_font_1_1_glyph_info.html#a46b20f8f199e3d2f698aa44a6553ab50',1,'Ogre::Font::GlyphInfo::uvRect'],['../class_ogre_1_1_font.html#a17ebc3668a45365c1243a83f36a512ef',1,'Ogre::Font::UVRect']]],
+  ['uvrect_315',['uvrect',['../class_ogre_1_1_font.html#a17ebc3668a45365c1243a83f36a512ef',1,'Ogre::Font::UVRect'],['../struct_ogre_1_1_font_1_1_glyph_info.html#a46b20f8f199e3d2f698aa44a6553ab50',1,'Ogre::Font::GlyphInfo::uvRect']]],
   ['uvroughness_316',['UvRoughness',['../struct_ogre_1_1_pbs_property.html#a6661e3fc093712a1267dcce3d5f1d7ac',1,'Ogre::PbsProperty']]],
   ['uvsource_317',['uvSource',['../struct_ogre_1_1_unlit_property_1_1_diffuse_map_ptr.html#aec650b44d996e845b3b86ccb3a69e5e1',1,'Ogre::UnlitProperty::DiffuseMapPtr']]],
   ['uvsourceptrs_318',['UvSourcePtrs',['../struct_ogre_1_1_pbs_property.html#a3775d430326255fd382d73fb205bcff8',1,'Ogre::PbsProperty']]],
