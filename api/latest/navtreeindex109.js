@@ -1,5 +1,7 @@
 var NAVTREEINDEX109 =
 {
+"class_ogre_1_1v1_1_1_vulkan_hardware_vertex_buffer.html#adb4a0338b24be02f2d416b7015aff554":[8,0,0,2,141,3],
+"class_ogre_1_1v1_1_1_vulkan_hardware_vertex_buffer.html#adb4a0338b24be02f2d416b7015aff554":[7,0,0,29,141,3],
 "class_ogre_1_1v1_1_1_vulkan_hardware_vertex_buffer.html#af19e8c7951716353066e6ac355b08e88":[8,0,0,2,141,8],
 "class_ogre_1_1v1_1_1_vulkan_hardware_vertex_buffer.html#af19e8c7951716353066e6ac355b08e88":[7,0,0,29,141,8],
 "class_ogre_1_1v1_1_1_wire_bounding_box.html":[6,2,11,73],
@@ -20,10 +22,10 @@ var NAVTREEINDEX109 =
 "classes.html":[8,1],
 "classrapidjson_1_1_generic_document.html":[7,0,2,0],
 "classrapidjson_1_1_generic_document.html":[8,0,1,0],
-"classrapidjson_1_1_generic_value.html":[8,0,1,1],
 "classrapidjson_1_1_generic_value.html":[7,0,2,1],
-"classrapidjson_1_1_memory_pool_allocator.html":[8,0,1,2],
+"classrapidjson_1_1_generic_value.html":[8,0,1,1],
 "classrapidjson_1_1_memory_pool_allocator.html":[7,0,2,2],
+"classrapidjson_1_1_memory_pool_allocator.html":[8,0,1,2],
 "commandbuffer.html":[4,1,3],
 "commandbuffer.html#CommandBufferAddCommand":[4,1,3,0],
 "commandbuffer.html#CommandBufferCommandStructure":[4,1,3,1],
@@ -46,6 +48,7 @@ var NAVTREEINDEX109 =
 "compositor.html#CompositorNodesPasses":[4,2,4,0,2],
 "compositor.html#CompositorNodesPassesClear":[4,2,4,0,2,1],
 "compositor.html#CompositorNodesPassesCompute":[4,2,4,0,2,9],
+"compositor.html#CompositorNodesPassesDepthCopy":[4,2,4,0,2,10],
 "compositor.html#CompositorNodesPassesGenerateMipmaps":[4,2,4,0,2,2],
 "compositor.html#CompositorNodesPassesGenerateMipmaps_gauss_deviation":[4,2,4,0,2,2,2],
 "compositor.html#CompositorNodesPassesGenerateMipmaps_kernel_radius":[4,2,4,0,2,2,1],
@@ -101,6 +104,9 @@ var NAVTREEINDEX109 =
 "compositor.html#CompositorPassCompute_job":[4,2,4,0,2,9,0],
 "compositor.html#CompositorPassCompute_uav":[4,2,4,0,2,9,1],
 "compositor.html#CompositorPassCompute_uav_buffer":[4,2,4,0,2,9,2],
+"compositor.html#CompositorPassDepthCopy_in":[4,2,4,0,2,10,0],
+"compositor.html#CompositorPassDepthCopy_mip_range":[4,2,4,0,2,10,2],
+"compositor.html#CompositorPassDepthCopy_out":[4,2,4,0,2,10,1],
 "compositor.html#CompositorPass_clear_buffers":[4,2,4,0,2,1,1],
 "compositor.html#CompositorPass_clear_non_tilers_only":[4,2,4,0,2,1,0],
 "compositor.html#CompositorPass_colour_write":[4,2,4,0,2,0,6],
@@ -243,11 +249,5 @@ var NAVTREEINDEX109 =
 "dir_95213927a2d4950f0fd1c14794533107.html":[9,0,4,3,0],
 "dir_95be6b62f2ee137d9a338ca7693a5422.html":[9,0,4,2],
 "dir_961d4625cf094b1bbde98087aed2bfef.html":[9,0,2,0,9,0,1],
-"dir_9784d098f8274c1210ccb04a0081b95e.html":[9,0,2,0,3,0,3],
-"dir_981382ac5f3a1ca3a953b14216ee58ea.html":[9,0,2,0,12],
-"dir_9b80ada38ddf6d40445ce4d3d9477d10.html":[9,0,4,1,1],
-"dir_9ba68fabe7d45cd05996335e8214ea54.html":[9,0,2,0],
-"dir_9cbf97e0cfb261f487ab96341cbaf2c6.html":[9,0,4,2,0,0,0],
-"dir_9e184d85e784272c717ca5c1fa4e4d94.html":[9,0,1,4],
-"dir_9fd2a7aaa540089b33e6775748baaea3.html":[9,0,3,2]
+"dir_9784d098f8274c1210ccb04a0081b95e.html":[9,0,2,0,3,0,3]
 };
